@@ -32,7 +32,7 @@ Bản cài đặt chuẩn **Age of Empires 1: Rise of Rome** đã được tích
 | **`F8` / `8` / `Num 8`** | **Thắng Trận Tức Thì (Auto Win)** | Kích hoạt cờ chiến thắng ngay lập tức |
 | **`Insert`** | **Ẩn / Hiện Menu Mod** | Thu gọn giao diện menu khi đang chơi |
 
----
+---bản quyền của anh sơn đẹp trai nhất thế giới ------------
 
 ## 🛠️ YÊU CẦU HỆ THỐNG
 - Windows 7 / 8 / 10 / 11
